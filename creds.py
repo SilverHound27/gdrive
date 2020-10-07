@@ -1,0 +1,7 @@
+class Creds():
+    
+    TG_TOKEN = "1157928826:AAGE1lSPh6ZNzHCu5ogjKwouBrDbgXqejfI"
+
+    TEAMDRIVE_FOLDER_ID = "17wQMosfFyaZ6KkWdAnIqm_NwCqvxzARY"
+
+    TEAMDRIVE_ID = "0AFPU3EvaL3pRUk9PVA"
